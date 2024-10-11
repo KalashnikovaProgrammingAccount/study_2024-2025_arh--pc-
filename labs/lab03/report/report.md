@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа №3"
 subtitle: "Язык разметки Markdown"
-author: "Калашникова Дарья Викторовнав"
+author: "Калашникова Дарья Викторовна"
 
 ## Generic otions
 lang: ru-RU
